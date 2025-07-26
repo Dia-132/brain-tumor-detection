@@ -27,7 +27,6 @@ The U-Net architecture is widely used in biomedical image segmentation. It consi
 
 The dataset consists of MRI scans and binary masks marking tumor regions. Each MRI is grayscale with an associated ground truth label.
 
-Note: Actual dataset is not included in this repository. You can upload your own dataset locally in a `dataset/` folder.
 
 ---
 
